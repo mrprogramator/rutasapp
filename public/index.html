@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<style>
+	html, body { height: 100%; }
+	body { margin: 0; }
+	
+	#map_canvas
+	{
+		width: 100%;
+		height: 100%;
+		background-color: #CCC;
+	}
+	</style>
+	
+	<script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+	<script src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
+	
+	<script>
+		var map;
+		var lineas;
+		
+		function rand(a, b) {
+			return a + Math.floor(Math.random() * (b - a));
+		}
+		
+		function rep(x, n) {
+			var a = [];
+			for (var i = 0; i < n; ++i) a.push(x);
+			return a;
+		}
+		
+		function call() {
+			var args = arguments;
+			return function (f) {
+				return f.apply(null, args);
+			};
+		}
+		
+		function watch(x) {
+			console.log(x);
+			return x;
+		}
+		
+		function initialize() {
+			var map_canvas = document.getElementById('map_canvas');
+			var mapOptions = {
+				center: new google.maps.LatLng(-17.781862, -63.178105),
+				zoom: 13,
+				mapTypeId: google.maps.MapTypeId.ROADMAP
+			};
+			
+			map = new google.maps.Map(map_canvas, mapOptions);
+			
+			google.maps.event.addListener(map, 'click', handleMapClick);
+			
+			$.get('/lineas', function (lineas) {
+				window.lineas = lineas;
+				
+				lineas
+				.forEach(function (linea) {
+					var ruta = linea.lineasbusesruta.map(function (reg) {
+						return new google.maps.LatLng(reg.lbrLatitud, reg.lbrLongitud);
+					});
+					
+					var poly = new google.maps.Polyline({
+						map: map,
+						path: ruta,
+						strokeColor: 'rgba(' + rep(rand, 3).map(call(0, 255)).join(',') + ', 0.1)',
+						clickable: false
+					});
+				});
+			});
+		}
+		
+		google.maps.event.addDomListener(window, 'load', initialize);
+		
+		function handleMapClick(ev) {
+			lineas.map(function (linea) {
+				var ruta = linea.lineasbusesruta.map(function (reg) {
+					return new google.maps.LatLng(reg.lbrLatitud, reg.lbrLongitud);
+				});
+				
+				linea.poly = new google.maps.Polyline({
+					path: ruta,
+					strokeColor: 'rgba(255,0,0,1)'
+				});
+				
+				return linea;
+			}).filter(function (linea) {
+				var res = google.maps.geometry.poly.isLocationOnEdge(ev.latLng, linea.poly, 1e-3);
+				return res;
+			}).forEach(function (linea) {
+				linea.poly.setMap(map);
+			});
+		}
+	</script>
+</head>
+<body>
+	<div id="map_canvas"></div>
+</body>
+</html>

@@ -1,0 +1,2571 @@
+{"lineasbusesruta":[
+														{
+					"lbrId":"43709",
+					"lbrLatitud":"-17.7307400000",
+					"lbrLongitud":"-63.1499300000",
+					"lbrOrden":"0",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43710",
+					"lbrLatitud":"-17.7309600000",
+					"lbrLongitud":"-63.1504600000",
+					"lbrOrden":"1",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43711",
+					"lbrLatitud":"-17.7313900000",
+					"lbrLongitud":"-63.1506800000",
+					"lbrOrden":"2",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43712",
+					"lbrLatitud":"-17.7318100000",
+					"lbrLongitud":"-63.1509600000",
+					"lbrOrden":"3",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43713",
+					"lbrLatitud":"-17.7322000000",
+					"lbrLongitud":"-63.1512100000",
+					"lbrOrden":"4",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43714",
+					"lbrLatitud":"-17.7326300000",
+					"lbrLongitud":"-63.1514700000",
+					"lbrOrden":"5",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43715",
+					"lbrLatitud":"-17.7330400000",
+					"lbrLongitud":"-63.1517300000",
+					"lbrOrden":"6",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43716",
+					"lbrLatitud":"-17.7335100000",
+					"lbrLongitud":"-63.1520100000",
+					"lbrOrden":"7",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43717",
+					"lbrLatitud":"-17.7339300000",
+					"lbrLongitud":"-63.1523000000",
+					"lbrOrden":"8",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43718",
+					"lbrLatitud":"-17.7343100000",
+					"lbrLongitud":"-63.1525400000",
+					"lbrOrden":"9",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43719",
+					"lbrLatitud":"-17.7347000000",
+					"lbrLongitud":"-63.1527900000",
+					"lbrOrden":"10",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43720",
+					"lbrLatitud":"-17.7351200000",
+					"lbrLongitud":"-63.1530600000",
+					"lbrOrden":"11",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43721",
+					"lbrLatitud":"-17.7355800000",
+					"lbrLongitud":"-63.1533400000",
+					"lbrOrden":"12",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43722",
+					"lbrLatitud":"-17.7360200000",
+					"lbrLongitud":"-63.1536200000",
+					"lbrOrden":"13",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43723",
+					"lbrLatitud":"-17.7364600000",
+					"lbrLongitud":"-63.1539100000",
+					"lbrOrden":"14",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43724",
+					"lbrLatitud":"-17.7369100000",
+					"lbrLongitud":"-63.1541700000",
+					"lbrOrden":"15",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43725",
+					"lbrLatitud":"-17.7372900000",
+					"lbrLongitud":"-63.1544500000",
+					"lbrOrden":"16",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43726",
+					"lbrLatitud":"-17.7376300000",
+					"lbrLongitud":"-63.1548100000",
+					"lbrOrden":"17",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43727",
+					"lbrLatitud":"-17.7380300000",
+					"lbrLongitud":"-63.1551800000",
+					"lbrOrden":"18",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43728",
+					"lbrLatitud":"-17.7384100000",
+					"lbrLongitud":"-63.1555600000",
+					"lbrOrden":"19",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43729",
+					"lbrLatitud":"-17.7387600000",
+					"lbrLongitud":"-63.1559100000",
+					"lbrOrden":"20",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43730",
+					"lbrLatitud":"-17.7391600000",
+					"lbrLongitud":"-63.1563000000",
+					"lbrOrden":"21",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43731",
+					"lbrLatitud":"-17.7395300000",
+					"lbrLongitud":"-63.1566700000",
+					"lbrOrden":"22",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43732",
+					"lbrLatitud":"-17.7396200000",
+					"lbrLongitud":"-63.1571100000",
+					"lbrOrden":"23",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43733",
+					"lbrLatitud":"-17.7393700000",
+					"lbrLongitud":"-63.1575400000",
+					"lbrOrden":"24",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43734",
+					"lbrLatitud":"-17.7391200000",
+					"lbrLongitud":"-63.1579900000",
+					"lbrOrden":"25",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43735",
+					"lbrLatitud":"-17.7388700000",
+					"lbrLongitud":"-63.1584700000",
+					"lbrOrden":"26",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43736",
+					"lbrLatitud":"-17.7386200000",
+					"lbrLongitud":"-63.1588700000",
+					"lbrOrden":"27",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43737",
+					"lbrLatitud":"-17.7383200000",
+					"lbrLongitud":"-63.1592900000",
+					"lbrOrden":"28",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43738",
+					"lbrLatitud":"-17.7380400000",
+					"lbrLongitud":"-63.1597500000",
+					"lbrOrden":"29",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43739",
+					"lbrLatitud":"-17.7377600000",
+					"lbrLongitud":"-63.1601600000",
+					"lbrOrden":"30",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43740",
+					"lbrLatitud":"-17.7374400000",
+					"lbrLongitud":"-63.1606400000",
+					"lbrOrden":"31",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43741",
+					"lbrLatitud":"-17.7371700000",
+					"lbrLongitud":"-63.1610400000",
+					"lbrOrden":"32",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43742",
+					"lbrLatitud":"-17.7372000000",
+					"lbrLongitud":"-63.1614800000",
+					"lbrOrden":"33",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43743",
+					"lbrLatitud":"-17.7376600000",
+					"lbrLongitud":"-63.1616800000",
+					"lbrOrden":"34",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43744",
+					"lbrLatitud":"-17.7381300000",
+					"lbrLongitud":"-63.1619300000",
+					"lbrOrden":"35",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43745",
+					"lbrLatitud":"-17.7386200000",
+					"lbrLongitud":"-63.1621200000",
+					"lbrOrden":"36",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43746",
+					"lbrLatitud":"-17.7390800000",
+					"lbrLongitud":"-63.1623500000",
+					"lbrOrden":"37",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43747",
+					"lbrLatitud":"-17.7395200000",
+					"lbrLongitud":"-63.1625800000",
+					"lbrOrden":"38",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43748",
+					"lbrLatitud":"-17.7399400000",
+					"lbrLongitud":"-63.1628400000",
+					"lbrOrden":"39",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43749",
+					"lbrLatitud":"-17.7403000000",
+					"lbrLongitud":"-63.1632100000",
+					"lbrOrden":"40",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43750",
+					"lbrLatitud":"-17.7406600000",
+					"lbrLongitud":"-63.1635600000",
+					"lbrOrden":"41",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43751",
+					"lbrLatitud":"-17.7410100000",
+					"lbrLongitud":"-63.1639100000",
+					"lbrOrden":"42",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43752",
+					"lbrLatitud":"-17.7413500000",
+					"lbrLongitud":"-63.1642500000",
+					"lbrOrden":"43",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43753",
+					"lbrLatitud":"-17.7416900000",
+					"lbrLongitud":"-63.1645900000",
+					"lbrOrden":"44",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43754",
+					"lbrLatitud":"-17.7420700000",
+					"lbrLongitud":"-63.1650000000",
+					"lbrOrden":"45",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43755",
+					"lbrLatitud":"-17.7424400000",
+					"lbrLongitud":"-63.1653800000",
+					"lbrOrden":"46",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43756",
+					"lbrLatitud":"-17.7422700000",
+					"lbrLongitud":"-63.1658300000",
+					"lbrOrden":"47",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43757",
+					"lbrLatitud":"-17.7423400000",
+					"lbrLongitud":"-63.1663300000",
+					"lbrOrden":"48",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43758",
+					"lbrLatitud":"-17.7427900000",
+					"lbrLongitud":"-63.1663000000",
+					"lbrOrden":"49",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43759",
+					"lbrLatitud":"-17.7433000000",
+					"lbrLongitud":"-63.1664400000",
+					"lbrOrden":"50",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43760",
+					"lbrLatitud":"-17.7437900000",
+					"lbrLongitud":"-63.1666000000",
+					"lbrOrden":"51",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43761",
+					"lbrLatitud":"-17.7441900000",
+					"lbrLongitud":"-63.1668100000",
+					"lbrOrden":"52",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43762",
+					"lbrLatitud":"-17.7446500000",
+					"lbrLongitud":"-63.1669900000",
+					"lbrOrden":"53",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43763",
+					"lbrLatitud":"-17.7451400000",
+					"lbrLongitud":"-63.1671800000",
+					"lbrOrden":"54",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43764",
+					"lbrLatitud":"-17.7456600000",
+					"lbrLongitud":"-63.1673900000",
+					"lbrOrden":"55",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43765",
+					"lbrLatitud":"-17.7461300000",
+					"lbrLongitud":"-63.1675900000",
+					"lbrOrden":"56",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43766",
+					"lbrLatitud":"-17.7466000000",
+					"lbrLongitud":"-63.1677700000",
+					"lbrOrden":"57",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43767",
+					"lbrLatitud":"-17.7470500000",
+					"lbrLongitud":"-63.1679200000",
+					"lbrOrden":"58",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43768",
+					"lbrLatitud":"-17.7475300000",
+					"lbrLongitud":"-63.1681100000",
+					"lbrOrden":"59",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43769",
+					"lbrLatitud":"-17.7479600000",
+					"lbrLongitud":"-63.1682900000",
+					"lbrOrden":"60",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43770",
+					"lbrLatitud":"-17.7484000000",
+					"lbrLongitud":"-63.1685000000",
+					"lbrOrden":"61",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43771",
+					"lbrLatitud":"-17.7488900000",
+					"lbrLongitud":"-63.1687400000",
+					"lbrOrden":"62",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43772",
+					"lbrLatitud":"-17.7493400000",
+					"lbrLongitud":"-63.1688600000",
+					"lbrOrden":"63",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43773",
+					"lbrLatitud":"-17.7498000000",
+					"lbrLongitud":"-63.1690600000",
+					"lbrOrden":"64",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43774",
+					"lbrLatitud":"-17.7501900000",
+					"lbrLongitud":"-63.1693500000",
+					"lbrOrden":"65",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43775",
+					"lbrLatitud":"-17.7506000000",
+					"lbrLongitud":"-63.1697800000",
+					"lbrOrden":"66",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43776",
+					"lbrLatitud":"-17.7510700000",
+					"lbrLongitud":"-63.1697700000",
+					"lbrOrden":"67",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43777",
+					"lbrLatitud":"-17.7515400000",
+					"lbrLongitud":"-63.1698700000",
+					"lbrOrden":"68",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43778",
+					"lbrLatitud":"-17.7519900000",
+					"lbrLongitud":"-63.1701400000",
+					"lbrOrden":"69",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43779",
+					"lbrLatitud":"-17.7524400000",
+					"lbrLongitud":"-63.1704300000",
+					"lbrOrden":"70",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43780",
+					"lbrLatitud":"-17.7528700000",
+					"lbrLongitud":"-63.1707200000",
+					"lbrOrden":"71",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43781",
+					"lbrLatitud":"-17.7533400000",
+					"lbrLongitud":"-63.1710000000",
+					"lbrOrden":"72",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43782",
+					"lbrLatitud":"-17.7538100000",
+					"lbrLongitud":"-63.1713000000",
+					"lbrOrden":"73",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43783",
+					"lbrLatitud":"-17.7542500000",
+					"lbrLongitud":"-63.1715600000",
+					"lbrOrden":"74",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43784",
+					"lbrLatitud":"-17.7546800000",
+					"lbrLongitud":"-63.1718400000",
+					"lbrOrden":"75",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43785",
+					"lbrLatitud":"-17.7550800000",
+					"lbrLongitud":"-63.1721500000",
+					"lbrOrden":"76",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43786",
+					"lbrLatitud":"-17.7555500000",
+					"lbrLongitud":"-63.1724400000",
+					"lbrOrden":"77",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43787",
+					"lbrLatitud":"-17.7560000000",
+					"lbrLongitud":"-63.1727200000",
+					"lbrOrden":"78",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43788",
+					"lbrLatitud":"-17.7564400000",
+					"lbrLongitud":"-63.1729800000",
+					"lbrOrden":"79",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43789",
+					"lbrLatitud":"-17.7568800000",
+					"lbrLongitud":"-63.1732600000",
+					"lbrOrden":"80",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43790",
+					"lbrLatitud":"-17.7573100000",
+					"lbrLongitud":"-63.1735300000",
+					"lbrOrden":"81",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43791",
+					"lbrLatitud":"-17.7577300000",
+					"lbrLongitud":"-63.1738100000",
+					"lbrOrden":"82",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43792",
+					"lbrLatitud":"-17.7581400000",
+					"lbrLongitud":"-63.1740700000",
+					"lbrOrden":"83",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43793",
+					"lbrLatitud":"-17.7585900000",
+					"lbrLongitud":"-63.1743400000",
+					"lbrOrden":"84",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43794",
+					"lbrLatitud":"-17.7589700000",
+					"lbrLongitud":"-63.1746200000",
+					"lbrOrden":"85",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43795",
+					"lbrLatitud":"-17.7593800000",
+					"lbrLongitud":"-63.1750400000",
+					"lbrOrden":"86",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43796",
+					"lbrLatitud":"-17.7598500000",
+					"lbrLongitud":"-63.1750600000",
+					"lbrOrden":"87",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43797",
+					"lbrLatitud":"-17.7603900000",
+					"lbrLongitud":"-63.1752000000",
+					"lbrOrden":"88",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43798",
+					"lbrLatitud":"-17.7608900000",
+					"lbrLongitud":"-63.1753400000",
+					"lbrOrden":"89",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43799",
+					"lbrLatitud":"-17.7613600000",
+					"lbrLongitud":"-63.1755100000",
+					"lbrOrden":"90",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43800",
+					"lbrLatitud":"-17.7618800000",
+					"lbrLongitud":"-63.1756800000",
+					"lbrOrden":"91",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43801",
+					"lbrLatitud":"-17.7623300000",
+					"lbrLongitud":"-63.1758400000",
+					"lbrOrden":"92",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43802",
+					"lbrLatitud":"-17.7628100000",
+					"lbrLongitud":"-63.1760000000",
+					"lbrOrden":"93",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43803",
+					"lbrLatitud":"-17.7633300000",
+					"lbrLongitud":"-63.1761400000",
+					"lbrOrden":"94",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43804",
+					"lbrLatitud":"-17.7637600000",
+					"lbrLongitud":"-63.1762800000",
+					"lbrOrden":"95",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43805",
+					"lbrLatitud":"-17.7642600000",
+					"lbrLongitud":"-63.1764200000",
+					"lbrOrden":"96",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43806",
+					"lbrLatitud":"-17.7647200000",
+					"lbrLongitud":"-63.1765900000",
+					"lbrOrden":"97",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43807",
+					"lbrLatitud":"-17.7652000000",
+					"lbrLongitud":"-63.1767900000",
+					"lbrOrden":"98",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43808",
+					"lbrLatitud":"-17.7656400000",
+					"lbrLongitud":"-63.1769800000",
+					"lbrOrden":"99",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43809",
+					"lbrLatitud":"-17.7660900000",
+					"lbrLongitud":"-63.1771700000",
+					"lbrOrden":"100",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43810",
+					"lbrLatitud":"-17.7665500000",
+					"lbrLongitud":"-63.1773800000",
+					"lbrOrden":"101",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43811",
+					"lbrLatitud":"-17.7669900000",
+					"lbrLongitud":"-63.1775900000",
+					"lbrOrden":"102",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43812",
+					"lbrLatitud":"-17.7674200000",
+					"lbrLongitud":"-63.1777800000",
+					"lbrOrden":"103",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43813",
+					"lbrLatitud":"-17.7678600000",
+					"lbrLongitud":"-63.1779700000",
+					"lbrOrden":"104",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43814",
+					"lbrLatitud":"-17.7683100000",
+					"lbrLongitud":"-63.1781700000",
+					"lbrOrden":"105",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43815",
+					"lbrLatitud":"-17.7687500000",
+					"lbrLongitud":"-63.1783600000",
+					"lbrOrden":"106",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43816",
+					"lbrLatitud":"-17.7692600000",
+					"lbrLongitud":"-63.1785600000",
+					"lbrOrden":"107",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43817",
+					"lbrLatitud":"-17.7697100000",
+					"lbrLongitud":"-63.1787800000",
+					"lbrOrden":"108",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43818",
+					"lbrLatitud":"-17.7702300000",
+					"lbrLongitud":"-63.1790300000",
+					"lbrOrden":"109",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43819",
+					"lbrLatitud":"-17.7707200000",
+					"lbrLongitud":"-63.1791800000",
+					"lbrOrden":"110",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43820",
+					"lbrLatitud":"-17.7712000000",
+					"lbrLongitud":"-63.1793300000",
+					"lbrOrden":"111",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43821",
+					"lbrLatitud":"-17.7717000000",
+					"lbrLongitud":"-63.1795400000",
+					"lbrOrden":"112",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43822",
+					"lbrLatitud":"-17.7722300000",
+					"lbrLongitud":"-63.1797700000",
+					"lbrOrden":"113",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43823",
+					"lbrLatitud":"-17.7727100000",
+					"lbrLongitud":"-63.1799200000",
+					"lbrOrden":"114",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43824",
+					"lbrLatitud":"-17.7731800000",
+					"lbrLongitud":"-63.1800000000",
+					"lbrOrden":"115",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43825",
+					"lbrLatitud":"-17.7736900000",
+					"lbrLongitud":"-63.1800600000",
+					"lbrOrden":"116",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43826",
+					"lbrLatitud":"-17.7742000000",
+					"lbrLongitud":"-63.1800700000",
+					"lbrOrden":"117",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43827",
+					"lbrLatitud":"-17.7747100000",
+					"lbrLongitud":"-63.1800600000",
+					"lbrOrden":"118",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43828",
+					"lbrLatitud":"-17.7753400000",
+					"lbrLongitud":"-63.1799500000",
+					"lbrOrden":"119",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43829",
+					"lbrLatitud":"-17.7757500000",
+					"lbrLongitud":"-63.1801000000",
+					"lbrOrden":"120",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43830",
+					"lbrLatitud":"-17.7758600000",
+					"lbrLongitud":"-63.1806700000",
+					"lbrOrden":"121",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43831",
+					"lbrLatitud":"-17.7759400000",
+					"lbrLongitud":"-63.1812600000",
+					"lbrOrden":"122",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43832",
+					"lbrLatitud":"-17.7764400000",
+					"lbrLongitud":"-63.1813200000",
+					"lbrOrden":"123",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43833",
+					"lbrLatitud":"-17.7769600000",
+					"lbrLongitud":"-63.1812600000",
+					"lbrOrden":"124",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43834",
+					"lbrLatitud":"-17.7774900000",
+					"lbrLongitud":"-63.1812200000",
+					"lbrOrden":"125",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43835",
+					"lbrLatitud":"-17.7780200000",
+					"lbrLongitud":"-63.1811500000",
+					"lbrOrden":"126",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43836",
+					"lbrLatitud":"-17.7784600000",
+					"lbrLongitud":"-63.1812100000",
+					"lbrOrden":"127",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43837",
+					"lbrLatitud":"-17.7786300000",
+					"lbrLongitud":"-63.1818400000",
+					"lbrOrden":"128",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43838",
+					"lbrLatitud":"-17.7786600000",
+					"lbrLongitud":"-63.1824200000",
+					"lbrOrden":"129",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43839",
+					"lbrLatitud":"-17.7787400000",
+					"lbrLongitud":"-63.1829800000",
+					"lbrOrden":"130",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43840",
+					"lbrLatitud":"-17.7788500000",
+					"lbrLongitud":"-63.1837000000",
+					"lbrOrden":"131",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43841",
+					"lbrLatitud":"-17.7789800000",
+					"lbrLongitud":"-63.1842500000",
+					"lbrOrden":"132",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43842",
+					"lbrLatitud":"-17.7790600000",
+					"lbrLongitud":"-63.1848900000",
+					"lbrOrden":"133",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43843",
+					"lbrLatitud":"-17.7795800000",
+					"lbrLongitud":"-63.1852200000",
+					"lbrOrden":"134",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43844",
+					"lbrLatitud":"-17.7801500000",
+					"lbrLongitud":"-63.1851600000",
+					"lbrOrden":"135",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43845",
+					"lbrLatitud":"-17.7806700000",
+					"lbrLongitud":"-63.1851000000",
+					"lbrOrden":"136",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43846",
+					"lbrLatitud":"-17.7811700000",
+					"lbrLongitud":"-63.1850600000",
+					"lbrOrden":"137",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43847",
+					"lbrLatitud":"-17.7817200000",
+					"lbrLongitud":"-63.1850200000",
+					"lbrOrden":"138",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43848",
+					"lbrLatitud":"-17.7822700000",
+					"lbrLongitud":"-63.1849400000",
+					"lbrOrden":"139",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43849",
+					"lbrLatitud":"-17.7827700000",
+					"lbrLongitud":"-63.1848900000",
+					"lbrOrden":"140",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43850",
+					"lbrLatitud":"-17.7832900000",
+					"lbrLongitud":"-63.1848500000",
+					"lbrOrden":"141",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43851",
+					"lbrLatitud":"-17.7837700000",
+					"lbrLongitud":"-63.1848200000",
+					"lbrOrden":"142",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43852",
+					"lbrLatitud":"-17.7842400000",
+					"lbrLongitud":"-63.1847400000",
+					"lbrOrden":"143",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43853",
+					"lbrLatitud":"-17.7847200000",
+					"lbrLongitud":"-63.1847100000",
+					"lbrOrden":"144",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43854",
+					"lbrLatitud":"-17.7852200000",
+					"lbrLongitud":"-63.1846500000",
+					"lbrOrden":"145",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43855",
+					"lbrLatitud":"-17.7857300000",
+					"lbrLongitud":"-63.1845700000",
+					"lbrOrden":"146",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43856",
+					"lbrLatitud":"-17.7862300000",
+					"lbrLongitud":"-63.1845500000",
+					"lbrOrden":"147",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43857",
+					"lbrLatitud":"-17.7867500000",
+					"lbrLongitud":"-63.1844700000",
+					"lbrOrden":"148",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43858",
+					"lbrLatitud":"-17.7872400000",
+					"lbrLongitud":"-63.1844500000",
+					"lbrOrden":"149",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43859",
+					"lbrLatitud":"-17.7874800000",
+					"lbrLongitud":"-63.1849100000",
+					"lbrOrden":"150",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43860",
+					"lbrLatitud":"-17.7876000000",
+					"lbrLongitud":"-63.1856100000",
+					"lbrOrden":"151",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43861",
+					"lbrLatitud":"-17.7877700000",
+					"lbrLongitud":"-63.1864800000",
+					"lbrOrden":"152",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43862",
+					"lbrLatitud":"-17.7879100000",
+					"lbrLongitud":"-63.1870400000",
+					"lbrOrden":"153",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43863",
+					"lbrLatitud":"-17.7881900000",
+					"lbrLongitud":"-63.1875000000",
+					"lbrOrden":"154",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43864",
+					"lbrLatitud":"-17.7885700000",
+					"lbrLongitud":"-63.1879500000",
+					"lbrOrden":"155",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43865",
+					"lbrLatitud":"-17.7891600000",
+					"lbrLongitud":"-63.1878200000",
+					"lbrOrden":"156",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43866",
+					"lbrLatitud":"-17.7896700000",
+					"lbrLongitud":"-63.1876400000",
+					"lbrOrden":"157",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43867",
+					"lbrLatitud":"-17.7901400000",
+					"lbrLongitud":"-63.1874800000",
+					"lbrOrden":"158",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43868",
+					"lbrLatitud":"-17.7906200000",
+					"lbrLongitud":"-63.1873400000",
+					"lbrOrden":"159",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43869",
+					"lbrLatitud":"-17.7911200000",
+					"lbrLongitud":"-63.1874500000",
+					"lbrOrden":"160",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43870",
+					"lbrLatitud":"-17.7915500000",
+					"lbrLongitud":"-63.1873900000",
+					"lbrOrden":"161",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43871",
+					"lbrLatitud":"-17.7920800000",
+					"lbrLongitud":"-63.1872800000",
+					"lbrOrden":"162",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43872",
+					"lbrLatitud":"-17.7928800000",
+					"lbrLongitud":"-63.1871600000",
+					"lbrOrden":"163",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43873",
+					"lbrLatitud":"-17.7933800000",
+					"lbrLongitud":"-63.1872200000",
+					"lbrOrden":"164",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43874",
+					"lbrLatitud":"-17.7941200000",
+					"lbrLongitud":"-63.1869700000",
+					"lbrOrden":"165",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43875",
+					"lbrLatitud":"-17.7946700000",
+					"lbrLongitud":"-63.1868500000",
+					"lbrOrden":"166",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43876",
+					"lbrLatitud":"-17.7951300000",
+					"lbrLongitud":"-63.1867600000",
+					"lbrOrden":"167",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43877",
+					"lbrLatitud":"-17.7956800000",
+					"lbrLongitud":"-63.1866600000",
+					"lbrOrden":"168",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43878",
+					"lbrLatitud":"-17.7962300000",
+					"lbrLongitud":"-63.1865800000",
+					"lbrOrden":"169",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43879",
+					"lbrLatitud":"-17.7967900000",
+					"lbrLongitud":"-63.1865000000",
+					"lbrOrden":"170",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43880",
+					"lbrLatitud":"-17.7973200000",
+					"lbrLongitud":"-63.1864000000",
+					"lbrOrden":"171",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43881",
+					"lbrLatitud":"-17.7978300000",
+					"lbrLongitud":"-63.1863800000",
+					"lbrOrden":"172",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43882",
+					"lbrLatitud":"-17.7983200000",
+					"lbrLongitud":"-63.1862800000",
+					"lbrOrden":"173",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43883",
+					"lbrLatitud":"-17.7988300000",
+					"lbrLongitud":"-63.1861900000",
+					"lbrOrden":"174",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43884",
+					"lbrLatitud":"-17.7993500000",
+					"lbrLongitud":"-63.1861000000",
+					"lbrOrden":"175",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43885",
+					"lbrLatitud":"-17.7998300000",
+					"lbrLongitud":"-63.1860100000",
+					"lbrOrden":"176",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43886",
+					"lbrLatitud":"-17.8002800000",
+					"lbrLongitud":"-63.1859700000",
+					"lbrOrden":"177",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43887",
+					"lbrLatitud":"-17.8006800000",
+					"lbrLongitud":"-63.1858800000",
+					"lbrOrden":"178",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43888",
+					"lbrLatitud":"-17.8008900000",
+					"lbrLongitud":"-63.1854500000",
+					"lbrOrden":"179",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43889",
+					"lbrLatitud":"-17.8008100000",
+					"lbrLongitud":"-63.1849100000",
+					"lbrOrden":"180",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43890",
+					"lbrLatitud":"-17.8007100000",
+					"lbrLongitud":"-63.1844400000",
+					"lbrOrden":"181",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43891",
+					"lbrLatitud":"-17.8005900000",
+					"lbrLongitud":"-63.1839500000",
+					"lbrOrden":"182",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43892",
+					"lbrLatitud":"-17.8004500000",
+					"lbrLongitud":"-63.1834500000",
+					"lbrOrden":"183",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43893",
+					"lbrLatitud":"-17.8003000000",
+					"lbrLongitud":"-63.1829200000",
+					"lbrOrden":"184",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43894",
+					"lbrLatitud":"-17.8001400000",
+					"lbrLongitud":"-63.1824400000",
+					"lbrOrden":"185",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43895",
+					"lbrLatitud":"-17.8000000000",
+					"lbrLongitud":"-63.1819800000",
+					"lbrOrden":"186",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43896",
+					"lbrLatitud":"-17.7998700000",
+					"lbrLongitud":"-63.1815200000",
+					"lbrOrden":"187",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43897",
+					"lbrLatitud":"-17.7997500000",
+					"lbrLongitud":"-63.1809800000",
+					"lbrOrden":"188",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43898",
+					"lbrLatitud":"-17.7997700000",
+					"lbrLongitud":"-63.1804700000",
+					"lbrOrden":"189",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43899",
+					"lbrLatitud":"-17.8002600000",
+					"lbrLongitud":"-63.1803200000",
+					"lbrOrden":"190",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43900",
+					"lbrLatitud":"-17.8008000000",
+					"lbrLongitud":"-63.1802800000",
+					"lbrOrden":"191",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43901",
+					"lbrLatitud":"-17.8013500000",
+					"lbrLongitud":"-63.1802600000",
+					"lbrOrden":"192",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43902",
+					"lbrLatitud":"-17.8018600000",
+					"lbrLongitud":"-63.1802600000",
+					"lbrOrden":"193",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43903",
+					"lbrLatitud":"-17.8023600000",
+					"lbrLongitud":"-63.1802400000",
+					"lbrOrden":"194",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43904",
+					"lbrLatitud":"-17.8028700000",
+					"lbrLongitud":"-63.1802300000",
+					"lbrOrden":"195",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43905",
+					"lbrLatitud":"-17.8034100000",
+					"lbrLongitud":"-63.1802200000",
+					"lbrOrden":"196",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43906",
+					"lbrLatitud":"-17.8039400000",
+					"lbrLongitud":"-63.1802100000",
+					"lbrOrden":"197",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43907",
+					"lbrLatitud":"-17.8044700000",
+					"lbrLongitud":"-63.1802100000",
+					"lbrOrden":"198",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43908",
+					"lbrLatitud":"-17.8050100000",
+					"lbrLongitud":"-63.1802000000",
+					"lbrOrden":"199",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43909",
+					"lbrLatitud":"-17.8055400000",
+					"lbrLongitud":"-63.1801900000",
+					"lbrOrden":"200",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43910",
+					"lbrLatitud":"-17.8060300000",
+					"lbrLongitud":"-63.1802000000",
+					"lbrOrden":"201",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43911",
+					"lbrLatitud":"-17.8064200000",
+					"lbrLongitud":"-63.1802500000",
+					"lbrOrden":"202",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43912",
+					"lbrLatitud":"-17.8068800000",
+					"lbrLongitud":"-63.1802800000",
+					"lbrOrden":"203",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43913",
+					"lbrLatitud":"-17.8073500000",
+					"lbrLongitud":"-63.1803300000",
+					"lbrOrden":"204",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43914",
+					"lbrLatitud":"-17.8078900000",
+					"lbrLongitud":"-63.1804800000",
+					"lbrOrden":"205",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43915",
+					"lbrLatitud":"-17.8083600000",
+					"lbrLongitud":"-63.1806700000",
+					"lbrOrden":"206",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43916",
+					"lbrLatitud":"-17.8088500000",
+					"lbrLongitud":"-63.1808900000",
+					"lbrOrden":"207",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43917",
+					"lbrLatitud":"-17.8093500000",
+					"lbrLongitud":"-63.1811200000",
+					"lbrOrden":"208",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43918",
+					"lbrLatitud":"-17.8098500000",
+					"lbrLongitud":"-63.1813300000",
+					"lbrOrden":"209",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43919",
+					"lbrLatitud":"-17.8102500000",
+					"lbrLongitud":"-63.1815200000",
+					"lbrOrden":"210",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43920",
+					"lbrLatitud":"-17.8107400000",
+					"lbrLongitud":"-63.1817400000",
+					"lbrOrden":"211",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43921",
+					"lbrLatitud":"-17.8111800000",
+					"lbrLongitud":"-63.1819600000",
+					"lbrOrden":"212",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43922",
+					"lbrLatitud":"-17.8116200000",
+					"lbrLongitud":"-63.1821700000",
+					"lbrOrden":"213",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43923",
+					"lbrLatitud":"-17.8120600000",
+					"lbrLongitud":"-63.1823800000",
+					"lbrOrden":"214",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43924",
+					"lbrLatitud":"-17.8125100000",
+					"lbrLongitud":"-63.1826000000",
+					"lbrOrden":"215",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43925",
+					"lbrLatitud":"-17.8130400000",
+					"lbrLongitud":"-63.1827900000",
+					"lbrOrden":"216",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43926",
+					"lbrLatitud":"-17.8136000000",
+					"lbrLongitud":"-63.1830700000",
+					"lbrOrden":"217",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43927",
+					"lbrLatitud":"-17.8140400000",
+					"lbrLongitud":"-63.1833000000",
+					"lbrOrden":"218",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43928",
+					"lbrLatitud":"-17.8144700000",
+					"lbrLongitud":"-63.1833300000",
+					"lbrOrden":"219",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43929",
+					"lbrLatitud":"-17.8143600000",
+					"lbrLongitud":"-63.1828100000",
+					"lbrOrden":"220",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43930",
+					"lbrLatitud":"-17.8141500000",
+					"lbrLongitud":"-63.1822500000",
+					"lbrOrden":"221",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43931",
+					"lbrLatitud":"-17.8140100000",
+					"lbrLongitud":"-63.1817800000",
+					"lbrOrden":"222",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43932",
+					"lbrLatitud":"-17.8138600000",
+					"lbrLongitud":"-63.1812900000",
+					"lbrOrden":"223",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43933",
+					"lbrLatitud":"-17.8137200000",
+					"lbrLongitud":"-63.1807800000",
+					"lbrOrden":"224",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43934",
+					"lbrLatitud":"-17.8135300000",
+					"lbrLongitud":"-63.1801900000",
+					"lbrOrden":"225",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43935",
+					"lbrLatitud":"-17.8133200000",
+					"lbrLongitud":"-63.1796800000",
+					"lbrOrden":"226",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43936",
+					"lbrLatitud":"-17.8131300000",
+					"lbrLongitud":"-63.1791700000",
+					"lbrOrden":"227",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43937",
+					"lbrLatitud":"-17.8129300000",
+					"lbrLongitud":"-63.1786600000",
+					"lbrOrden":"228",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43938",
+					"lbrLatitud":"-17.8127500000",
+					"lbrLongitud":"-63.1781800000",
+					"lbrOrden":"229",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43939",
+					"lbrLatitud":"-17.8126500000",
+					"lbrLongitud":"-63.1777300000",
+					"lbrOrden":"230",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43940",
+					"lbrLatitud":"-17.8130200000",
+					"lbrLongitud":"-63.1775200000",
+					"lbrOrden":"231",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43941",
+					"lbrLatitud":"-17.8134900000",
+					"lbrLongitud":"-63.1774300000",
+					"lbrOrden":"232",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43942",
+					"lbrLatitud":"-17.8140300000",
+					"lbrLongitud":"-63.1773200000",
+					"lbrOrden":"233",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43943",
+					"lbrLatitud":"-17.8145100000",
+					"lbrLongitud":"-63.1772800000",
+					"lbrOrden":"234",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43944",
+					"lbrLatitud":"-17.8150300000",
+					"lbrLongitud":"-63.1772700000",
+					"lbrOrden":"235",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43945",
+					"lbrLatitud":"-17.8155500000",
+					"lbrLongitud":"-63.1772500000",
+					"lbrOrden":"236",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43946",
+					"lbrLatitud":"-17.8160500000",
+					"lbrLongitud":"-63.1772500000",
+					"lbrOrden":"237",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43947",
+					"lbrLatitud":"-17.8165600000",
+					"lbrLongitud":"-63.1772300000",
+					"lbrOrden":"238",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43948",
+					"lbrLatitud":"-17.8170700000",
+					"lbrLongitud":"-63.1772100000",
+					"lbrOrden":"239",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43949",
+					"lbrLatitud":"-17.8175500000",
+					"lbrLongitud":"-63.1772200000",
+					"lbrOrden":"240",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43950",
+					"lbrLatitud":"-17.8179400000",
+					"lbrLongitud":"-63.1772200000",
+					"lbrOrden":"241",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43951",
+					"lbrLatitud":"-17.8184200000",
+					"lbrLongitud":"-63.1771700000",
+					"lbrOrden":"242",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43952",
+					"lbrLatitud":"-17.8189100000",
+					"lbrLongitud":"-63.1771400000",
+					"lbrOrden":"243",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43953",
+					"lbrLatitud":"-17.8194000000",
+					"lbrLongitud":"-63.1771400000",
+					"lbrOrden":"244",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43954",
+					"lbrLatitud":"-17.8198600000",
+					"lbrLongitud":"-63.1770900000",
+					"lbrOrden":"245",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43955",
+					"lbrLatitud":"-17.8204100000",
+					"lbrLongitud":"-63.1770600000",
+					"lbrOrden":"246",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43956",
+					"lbrLatitud":"-17.8208500000",
+					"lbrLongitud":"-63.1770900000",
+					"lbrOrden":"247",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43957",
+					"lbrLatitud":"-17.8213300000",
+					"lbrLongitud":"-63.1771300000",
+					"lbrOrden":"248",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43958",
+					"lbrLatitud":"-17.8218300000",
+					"lbrLongitud":"-63.1773700000",
+					"lbrOrden":"249",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43959",
+					"lbrLatitud":"-17.8222700000",
+					"lbrLongitud":"-63.1775000000",
+					"lbrOrden":"250",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43960",
+					"lbrLatitud":"-17.8226200000",
+					"lbrLongitud":"-63.1772700000",
+					"lbrOrden":"251",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43961",
+					"lbrLatitud":"-17.8231400000",
+					"lbrLongitud":"-63.1771500000",
+					"lbrOrden":"252",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43962",
+					"lbrLatitud":"-17.8236700000",
+					"lbrLongitud":"-63.1770900000",
+					"lbrOrden":"253",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43963",
+					"lbrLatitud":"-17.8241500000",
+					"lbrLongitud":"-63.1770800000",
+					"lbrOrden":"254",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43964",
+					"lbrLatitud":"-17.8246300000",
+					"lbrLongitud":"-63.1770500000",
+					"lbrOrden":"255",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43965",
+					"lbrLatitud":"-17.8251200000",
+					"lbrLongitud":"-63.1770300000",
+					"lbrOrden":"256",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43966",
+					"lbrLatitud":"-17.8256200000",
+					"lbrLongitud":"-63.1770200000",
+					"lbrOrden":"257",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43967",
+					"lbrLatitud":"-17.8261100000",
+					"lbrLongitud":"-63.1769200000",
+					"lbrOrden":"258",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43968",
+					"lbrLatitud":"-17.8265900000",
+					"lbrLongitud":"-63.1768300000",
+					"lbrOrden":"259",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43969",
+					"lbrLatitud":"-17.8270400000",
+					"lbrLongitud":"-63.1767400000",
+					"lbrOrden":"260",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43970",
+					"lbrLatitud":"-17.8275000000",
+					"lbrLongitud":"-63.1766500000",
+					"lbrOrden":"261",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43971",
+					"lbrLatitud":"-17.8279700000",
+					"lbrLongitud":"-63.1765900000",
+					"lbrOrden":"262",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43972",
+					"lbrLatitud":"-17.8284500000",
+					"lbrLongitud":"-63.1764200000",
+					"lbrOrden":"263",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43973",
+					"lbrLatitud":"-17.8289300000",
+					"lbrLongitud":"-63.1763000000",
+					"lbrOrden":"264",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43974",
+					"lbrLatitud":"-17.8293900000",
+					"lbrLongitud":"-63.1761900000",
+					"lbrOrden":"265",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43975",
+					"lbrLatitud":"-17.8298500000",
+					"lbrLongitud":"-63.1760700000",
+					"lbrOrden":"266",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43976",
+					"lbrLatitud":"-17.8302800000",
+					"lbrLongitud":"-63.1759400000",
+					"lbrOrden":"267",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43977",
+					"lbrLatitud":"-17.8307700000",
+					"lbrLongitud":"-63.1759300000",
+					"lbrOrden":"268",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43978",
+					"lbrLatitud":"-17.8312600000",
+					"lbrLongitud":"-63.1758600000",
+					"lbrOrden":"269",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43979",
+					"lbrLatitud":"-17.8316100000",
+					"lbrLongitud":"-63.1755500000",
+					"lbrOrden":"270",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43980",
+					"lbrLatitud":"-17.8321100000",
+					"lbrLongitud":"-63.1754000000",
+					"lbrOrden":"271",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43981",
+					"lbrLatitud":"-17.8325500000",
+					"lbrLongitud":"-63.1753000000",
+					"lbrOrden":"272",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43982",
+					"lbrLatitud":"-17.8330500000",
+					"lbrLongitud":"-63.1751400000",
+					"lbrOrden":"273",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43983",
+					"lbrLatitud":"-17.8335500000",
+					"lbrLongitud":"-63.1750000000",
+					"lbrOrden":"274",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43984",
+					"lbrLatitud":"-17.8340500000",
+					"lbrLongitud":"-63.1748800000",
+					"lbrOrden":"275",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43985",
+					"lbrLatitud":"-17.8345100000",
+					"lbrLongitud":"-63.1747800000",
+					"lbrOrden":"276",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43986",
+					"lbrLatitud":"-17.8349900000",
+					"lbrLongitud":"-63.1746900000",
+					"lbrOrden":"277",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43987",
+					"lbrLatitud":"-17.8354600000",
+					"lbrLongitud":"-63.1745900000",
+					"lbrOrden":"278",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43988",
+					"lbrLatitud":"-17.8359100000",
+					"lbrLongitud":"-63.1745200000",
+					"lbrOrden":"279",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43989",
+					"lbrLatitud":"-17.8363200000",
+					"lbrLongitud":"-63.1743800000",
+					"lbrOrden":"280",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43990",
+					"lbrLatitud":"-17.8367700000",
+					"lbrLongitud":"-63.1742000000",
+					"lbrOrden":"281",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43991",
+					"lbrLatitud":"-17.8371800000",
+					"lbrLongitud":"-63.1739800000",
+					"lbrOrden":"282",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43992",
+					"lbrLatitud":"-17.8376200000",
+					"lbrLongitud":"-63.1737800000",
+					"lbrOrden":"283",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43993",
+					"lbrLatitud":"-17.8380500000",
+					"lbrLongitud":"-63.1735500000",
+					"lbrOrden":"284",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43994",
+					"lbrLatitud":"-17.8385300000",
+					"lbrLongitud":"-63.1733100000",
+					"lbrOrden":"285",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43995",
+					"lbrLatitud":"-17.8389800000",
+					"lbrLongitud":"-63.1731000000",
+					"lbrOrden":"286",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43996",
+					"lbrLatitud":"-17.8394900000",
+					"lbrLongitud":"-63.1728600000",
+					"lbrOrden":"287",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43997",
+					"lbrLatitud":"-17.8399100000",
+					"lbrLongitud":"-63.1726700000",
+					"lbrOrden":"288",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43998",
+					"lbrLatitud":"-17.8403500000",
+					"lbrLongitud":"-63.1724900000",
+					"lbrOrden":"289",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"43999",
+					"lbrLatitud":"-17.8408500000",
+					"lbrLongitud":"-63.1722500000",
+					"lbrOrden":"290",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"44000",
+					"lbrLatitud":"-17.8413500000",
+					"lbrLongitud":"-63.1720100000",
+					"lbrOrden":"291",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"44001",
+					"lbrLatitud":"-17.8414600000",
+					"lbrLongitud":"-63.1716400000",
+					"lbrOrden":"292",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"44002",
+					"lbrLatitud":"-17.8410600000",
+					"lbrLongitud":"-63.1712900000",
+					"lbrOrden":"293",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"44003",
+					"lbrLatitud":"-17.8408400000",
+					"lbrLongitud":"-63.1709100000",
+					"lbrOrden":"294",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"44004",
+					"lbrLatitud":"-17.8411700000",
+					"lbrLongitud":"-63.1705200000",
+					"lbrOrden":"295",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"44005",
+					"lbrLatitud":"-17.8414600000",
+					"lbrLongitud":"-63.1701500000",
+					"lbrOrden":"296",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"44006",
+					"lbrLatitud":"-17.8417700000",
+					"lbrLongitud":"-63.1697300000",
+					"lbrOrden":"297",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"44007",
+					"lbrLatitud":"-17.8421000000",
+					"lbrLongitud":"-63.1693400000",
+					"lbrOrden":"298",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"44008",
+					"lbrLatitud":"-17.8424000000",
+					"lbrLongitud":"-63.1689600000",
+					"lbrOrden":"299",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"44009",
+					"lbrLatitud":"-17.8427400000",
+					"lbrLongitud":"-63.1685300000",
+					"lbrOrden":"300",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"44010",
+					"lbrLatitud":"-17.8430500000",
+					"lbrLongitud":"-63.1681800000",
+					"lbrOrden":"301",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"44011",
+					"lbrLatitud":"-17.8433800000",
+					"lbrLongitud":"-63.1678000000",
+					"lbrOrden":"302",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"44012",
+					"lbrLatitud":"-17.8437200000",
+					"lbrLongitud":"-63.1673800000",
+					"lbrOrden":"303",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"44013",
+					"lbrLatitud":"-17.8440300000",
+					"lbrLongitud":"-63.1669800000",
+					"lbrOrden":"304",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"44014",
+					"lbrLatitud":"-17.8443400000",
+					"lbrLongitud":"-63.1665800000",
+					"lbrOrden":"305",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"44015",
+					"lbrLatitud":"-17.8446500000",
+					"lbrLongitud":"-63.1661600000",
+					"lbrOrden":"306",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"44016",
+					"lbrLatitud":"-17.8449900000",
+					"lbrLongitud":"-63.1657700000",
+					"lbrOrden":"307",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"44017",
+					"lbrLatitud":"-17.8452900000",
+					"lbrLongitud":"-63.1653100000",
+					"lbrOrden":"308",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"44018",
+					"lbrLatitud":"-17.8456000000",
+					"lbrLongitud":"-63.1649300000",
+					"lbrOrden":"309",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"44019",
+					"lbrLatitud":"-17.8459200000",
+					"lbrLongitud":"-63.1645800000",
+					"lbrOrden":"310",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"44020",
+					"lbrLatitud":"-17.8463300000",
+					"lbrLongitud":"-63.1643400000",
+					"lbrOrden":"311",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"44021",
+					"lbrLatitud":"-17.8467200000",
+					"lbrLongitud":"-63.1641400000",
+					"lbrOrden":"312",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"44022",
+					"lbrLatitud":"-17.8471800000",
+					"lbrLongitud":"-63.1638700000",
+					"lbrOrden":"313",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"44023",
+					"lbrLatitud":"-17.8475900000",
+					"lbrLongitud":"-63.1636500000",
+					"lbrOrden":"314",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"44024",
+					"lbrLatitud":"-17.8480600000",
+					"lbrLongitud":"-63.1634300000",
+					"lbrOrden":"315",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"44025",
+					"lbrLatitud":"-17.8484500000",
+					"lbrLongitud":"-63.1631800000",
+					"lbrOrden":"316",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"44026",
+					"lbrLatitud":"-17.8488700000",
+					"lbrLongitud":"-63.1629800000",
+					"lbrOrden":"317",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"44027",
+					"lbrLatitud":"-17.8492000000",
+					"lbrLongitud":"-63.1630500000",
+					"lbrOrden":"318",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"44028",
+					"lbrLatitud":"-17.8494800000",
+					"lbrLongitud":"-63.1635000000",
+					"lbrOrden":"319",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"44029",
+					"lbrLatitud":"-17.8497100000",
+					"lbrLongitud":"-63.1639200000",
+					"lbrOrden":"320",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"44030",
+					"lbrLatitud":"-17.8499300000",
+					"lbrLongitud":"-63.1643500000",
+					"lbrOrden":"321",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"44031",
+					"lbrLatitud":"-17.8501700000",
+					"lbrLongitud":"-63.1647900000",
+					"lbrOrden":"322",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"44032",
+					"lbrLatitud":"-17.8503900000",
+					"lbrLongitud":"-63.1651900000",
+					"lbrOrden":"323",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"44033",
+					"lbrLatitud":"-17.8506300000",
+					"lbrLongitud":"-63.1656400000",
+					"lbrOrden":"324",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"44034",
+					"lbrLatitud":"-17.8508400000",
+					"lbrLongitud":"-63.1660700000",
+					"lbrOrden":"325",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"44035",
+					"lbrLatitud":"-17.8512300000",
+					"lbrLongitud":"-63.1660100000",
+					"lbrOrden":"326",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"44036",
+					"lbrLatitud":"-17.8516600000",
+					"lbrLongitud":"-63.1657200000",
+					"lbrOrden":"327",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"44037",
+					"lbrLatitud":"-17.8520700000",
+					"lbrLongitud":"-63.1654000000",
+					"lbrOrden":"328",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"44038",
+					"lbrLatitud":"-17.8524800000",
+					"lbrLongitud":"-63.1650700000",
+					"lbrOrden":"329",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"44039",
+					"lbrLatitud":"-17.8529100000",
+					"lbrLongitud":"-63.1647300000",
+					"lbrOrden":"330",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"44040",
+					"lbrLatitud":"-17.8533000000",
+					"lbrLongitud":"-63.1644300000",
+					"lbrOrden":"331",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"44041",
+					"lbrLatitud":"-17.8536800000",
+					"lbrLongitud":"-63.1641500000",
+					"lbrOrden":"332",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"44042",
+					"lbrLatitud":"-17.8540500000",
+					"lbrLongitud":"-63.1638500000",
+					"lbrOrden":"333",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"44043",
+					"lbrLatitud":"-17.8544500000",
+					"lbrLongitud":"-63.1636200000",
+					"lbrOrden":"334",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"44044",
+					"lbrLatitud":"-17.8549000000",
+					"lbrLongitud":"-63.1633900000",
+					"lbrOrden":"335",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"44045",
+					"lbrLatitud":"-17.8553100000",
+					"lbrLongitud":"-63.1631900000",
+					"lbrOrden":"336",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"44046",
+					"lbrLatitud":"-17.8557300000",
+					"lbrLongitud":"-63.1630100000",
+					"lbrOrden":"337",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"44047",
+					"lbrLatitud":"-17.8561900000",
+					"lbrLongitud":"-63.1628300000",
+					"lbrOrden":"338",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"44048",
+					"lbrLatitud":"-17.8566600000",
+					"lbrLongitud":"-63.1626100000",
+					"lbrOrden":"339",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"44049",
+					"lbrLatitud":"-17.8570800000",
+					"lbrLongitud":"-63.1624000000",
+					"lbrOrden":"340",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"44050",
+					"lbrLatitud":"-17.8575000000",
+					"lbrLongitud":"-63.1621500000",
+					"lbrOrden":"341",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"44051",
+					"lbrLatitud":"-17.8578900000",
+					"lbrLongitud":"-63.1619200000",
+					"lbrOrden":"342",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"44052",
+					"lbrLatitud":"-17.8582800000",
+					"lbrLongitud":"-63.1616500000",
+					"lbrOrden":"343",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"44053",
+					"lbrLatitud":"-17.8587000000",
+					"lbrLongitud":"-63.1614000000",
+					"lbrOrden":"344",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"44054",
+					"lbrLatitud":"-17.8591500000",
+					"lbrLongitud":"-63.1612300000",
+					"lbrOrden":"345",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"44055",
+					"lbrLatitud":"-17.8596300000",
+					"lbrLongitud":"-63.1610900000",
+					"lbrOrden":"346",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"44056",
+					"lbrLatitud":"-17.8601000000",
+					"lbrLongitud":"-63.1609800000",
+					"lbrOrden":"347",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"44057",
+					"lbrLatitud":"-17.8605900000",
+					"lbrLongitud":"-63.1608600000",
+					"lbrOrden":"348",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"44058",
+					"lbrLatitud":"-17.8610200000",
+					"lbrLongitud":"-63.1607400000",
+					"lbrOrden":"349",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"44059",
+					"lbrLatitud":"-17.8615100000",
+					"lbrLongitud":"-63.1606200000",
+					"lbrOrden":"350",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"44060",
+					"lbrLatitud":"-17.8619500000",
+					"lbrLongitud":"-63.1605200000",
+					"lbrOrden":"351",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"44061",
+					"lbrLatitud":"-17.8624200000",
+					"lbrLongitud":"-63.1604500000",
+					"lbrOrden":"352",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"44062",
+					"lbrLatitud":"-17.8624100000",
+					"lbrLongitud":"-63.1599500000",
+					"lbrOrden":"353",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"44063",
+					"lbrLatitud":"-17.8622300000",
+					"lbrLongitud":"-63.1594900000",
+					"lbrOrden":"354",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"44064",
+					"lbrLatitud":"-17.8620500000",
+					"lbrLongitud":"-63.1590300000",
+					"lbrOrden":"355",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"44065",
+					"lbrLatitud":"-17.8618800000",
+					"lbrLongitud":"-63.1585500000",
+					"lbrOrden":"356",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"44066",
+					"lbrLatitud":"-17.8617100000",
+					"lbrLongitud":"-63.1581100000",
+					"lbrOrden":"357",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"44067",
+					"lbrLatitud":"-17.8615300000",
+					"lbrLongitud":"-63.1576700000",
+					"lbrOrden":"358",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"44068",
+					"lbrLatitud":"-17.8613500000",
+					"lbrLongitud":"-63.1572000000",
+					"lbrOrden":"359",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"44069",
+					"lbrLatitud":"-17.8611400000",
+					"lbrLongitud":"-63.1567400000",
+					"lbrOrden":"360",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"44070",
+					"lbrLatitud":"-17.8609600000",
+					"lbrLongitud":"-63.1562900000",
+					"lbrOrden":"361",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"44071",
+					"lbrLatitud":"-17.8607900000",
+					"lbrLongitud":"-63.1558400000",
+					"lbrOrden":"362",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"44072",
+					"lbrLatitud":"-17.8606100000",
+					"lbrLongitud":"-63.1553900000",
+					"lbrOrden":"363",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"44073",
+					"lbrLatitud":"-17.8604100000",
+					"lbrLongitud":"-63.1549100000",
+					"lbrOrden":"364",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+				,				{
+					"lbrId":"44074",
+					"lbrLatitud":"-17.8601800000",
+					"lbrLongitud":"-63.1549500000",
+					"lbrOrden":"365",
+					"lbrFechaCreacion":"1374201393",
+					"lbsId":"64"				}
+		],
+	"infoLinea":{
+		"lbsImagen":"http:\/\/cruzero.net\/cruzero\/cruzero_uploads\/linea_57.jpg",
+		"lbsNombre":"Linea :\t57",
+		"lbsVelocidad":"16.000",
+		"lbsDistancia":"20.4000",
+		"lbsTiempo":"77"	}
+}
