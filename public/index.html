@@ -1,102 +1,76 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<style>
-	html, body { height: 100%; }
-	body { margin: 0; }
-	
-	#map_canvas
-	{
-		width: 100%;
-		height: 100%;
-		background-color: #CCC;
-	}
-	</style>
-	
 	<script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
-	<script src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
 	
-	<script>
-		var map;
-		var lineas;
+	<script src="http://cdnjs.cloudflare.com/ajax/libs/less.js/1.7.0/less.min.js"></script>
+	
+	<script src="https://maps.googleapis.com/maps/api/js?sensor=true"></script>
+	
+	<script src="http://fb.me/react-with-addons-0.10.0.js"></script>
+	<script src="http://fb.me/JSXTransformer-0.10.0.js"></script>
+	
+	<script src="components/RutasApp.jsx" type="text/jsx"></script>
+	<script src="components/GoogleMap.jsx" type="text/jsx"></script>
+	<script src="components/Marker.jsx" type="text/jsx"></script>
+	<script src="components/Polyline.jsx" type="text/jsx"></script>
+	<script src="components/ListadoLineas.jsx" type="text/jsx"></script>
+	<script src="components/ItemLineaListado.jsx" type="text/jsx"></script>
+	
+	<style rel="stylesheet/less" type="text/css">
+html, body, #stage { height: 100%; }
+
+body, p { margin: 0; }
+
+.rutas-app {
+	height: 100%;
+}
+
+.google-map {
+	height: 100%;
+}
+
+.listado-lineas {
+	z-index: 33;
+	position: absolute;
+	top: 30px; bottom: 30px; left: 30px;
+	overflow: auto;
+	
+	width: 200px;
+	
+	background: white;
+}
+	.listado-lineas .linea {
+		cursor: pointer;
 		
-		function rand(a, b) {
-			return a + Math.floor(Math.random() * (b - a));
+		margin-bottom: 3px;
+		padding: 5px;
+		
+		background: #EEE;
+	}
+		.listado-lineas .linea:hover {
+			background: #DDD;
 		}
-		
-		function rep(x, n) {
-			var a = [];
-			for (var i = 0; i < n; ++i) a.push(x);
-			return a;
+		.listado-lineas .linea.active {
+			background: #CCF;
+			font-weight: bold;
 		}
-		
-		function call() {
-			var args = arguments;
-			return function (f) {
-				return f.apply(null, args);
-			};
+		.listado-lineas .linea header {
 		}
-		
-		function watch(x) {
-			console.log(x);
-			return x;
-		}
-		
-		function initialize() {
-			var map_canvas = document.getElementById('map_canvas');
-			var mapOptions = {
-				center: new google.maps.LatLng(-17.781862, -63.178105),
-				zoom: 13,
-				mapTypeId: google.maps.MapTypeId.ROADMAP
-			};
-			
-			map = new google.maps.Map(map_canvas, mapOptions);
-			
-			google.maps.event.addListener(map, 'click', handleMapClick);
-			
-			$.get('/lineas', function (lineas) {
-				window.lineas = lineas;
+			.listado-lineas .linea header p {
 				
-				lineas
-				.forEach(function (linea) {
-					var ruta = linea.lineasbusesruta.map(function (reg) {
-						return new google.maps.LatLng(reg.lbrLatitud, reg.lbrLongitud);
-					});
-					
-					var poly = new google.maps.Polyline({
-						map: map,
-						path: ruta,
-						strokeColor: 'rgba(' + rep(rand, 3).map(call(0, 255)).join(',') + ', 0.1)',
-						clickable: false
-					});
-				});
-			});
-		}
-		
-		google.maps.event.addDomListener(window, 'load', initialize);
-		
-		function handleMapClick(ev) {
-			lineas.map(function (linea) {
-				var ruta = linea.lineasbusesruta.map(function (reg) {
-					return new google.maps.LatLng(reg.lbrLatitud, reg.lbrLongitud);
-				});
-				
-				linea.poly = new google.maps.Polyline({
-					path: ruta,
-					strokeColor: 'rgba(255,0,0,1)'
-				});
-				
-				return linea;
-			}).filter(function (linea) {
-				var res = google.maps.geometry.poly.isLocationOnEdge(ev.latLng, linea.poly, 1e-3);
-				return res;
-			}).forEach(function (linea) {
-				linea.poly.setMap(map);
-			});
-		}
-	</script>
+			}
+	</style>
 </head>
 <body>
-	<div id="map_canvas"></div>
+	<div id="stage"></div>
+	
+	<script type="text/jsx">
+		/** @jsx React.DOM */
+		React.renderComponent(
+			<RutasApp />,
+			document.getElementById('stage')
+		);
+	</script>
 </body>
 </html>

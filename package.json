@@ -5,6 +5,7 @@
 	"private": true,
 	"dependencies": {
 		"express": "*",
-		"body-parser": "*"
+		"body-parser": "*",
+		"react": "*"
 	}
 }
