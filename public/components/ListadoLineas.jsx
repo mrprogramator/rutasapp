@@ -37,6 +37,9 @@ var ListadoLineas = React.createClass({
 		
 		return (
 			<div className="listado-lineas">
+				<header>
+					<h3>Lineas</h3>
+				</header>
 				{lineas}
 			</div>
 		);

@@ -4,7 +4,8 @@ var Polyline = React.createClass({
 	componentWillMount: function () {
 		this.marker = new google.maps.Polyline({
 			map: this.props.map.getMap(),
-			path: this.props.points
+			path: this.props.points,
+			strokeColor: this.props.strokeColor
 		});
 	},
 	componentWillReceiveProps: function (nextProps) {

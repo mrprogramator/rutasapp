@@ -25,11 +25,14 @@ var RutasApp = React.createClass({
 	},
 	
 	render: function () {
+		function f() { return Math.floor(0xFF * Math.random()); }
+		
 		var overlays = this.state.activeLineas.map(function (linea) {
 			return (
 				<Polyline
 					key={linea.id}
 					map={this.refs.map}
+					strokeColor={'rgba('+[f(),f(),f()].join(',')+',1)'}
 					points={linea.points} />
 			);
 		}, this);
