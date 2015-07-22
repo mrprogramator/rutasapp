@@ -8,7 +8,7 @@ var DIRLINEAS = __dirname + '/public/lineas';
 
 // = Setup 1
 
-app.use(bodyParser());
+// app.use(bodyParser());
 
 // = Handlers
 
