@@ -30,7 +30,7 @@ app.use(express.static(__dirname + '/public'));
 
 // = GO!
 
-app.listen(8080, function () {
+app.listen(process.env.PORT, function () {
 	console.log('Escuchando...');
 });
 
